@@ -13,7 +13,7 @@
 ## Технологии и библиотеки
 * **Frontend**: HTML, CSS, CSS Modules, Styled Components, React, Redux Toolkit, Next.js, Webpack, Vue
 * **Backend**: Node.js, Express, NestJS, PostgreSQL, MongoDB 
-* **Other**: Pandas, Numpy, sklearn (:construction:WIP...)
+* **Other**: Pandas, Numpy, sklearn ( :construction: WIP...)
 
 ## Контакты:
 :email: dolgonosov.konstantin@yandex.ru
